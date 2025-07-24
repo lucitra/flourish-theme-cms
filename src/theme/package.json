@@ -10,7 +10,14 @@
   "keywords": [],
   "dependencies": {
     "@hubspot/cms-components": "latest",
-    "react": "^18"
+    "@lucitra/react-components": "0.18.0",
+    "@mantine/core": "8.2.1",
+    "@mantine/hooks": "8.2.1",
+    "@mantine/notifications": "8.2.1",
+    "i18next": "25.3.2",
+    "react": "^18",
+    "react-dom": "18.3.1",
+    "react-i18next": "15.6.1"
   },
   "devDependencies": {
     "@hubspot/cms-dev-server": "latest"
